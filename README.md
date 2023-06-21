@@ -172,7 +172,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 ### Features
 
 
-### Built with
+### :notebook: Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -182,7 +182,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 - jS
 - Advice API
 
-### Built With
+### :notebook: Built With
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -207,7 +207,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+###:notebook: Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -313,7 +313,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## :fire: Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
